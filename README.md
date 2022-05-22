@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marko-kisegi
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Swing and its wonders
-- 💞️ I’m looking to collaborate on anything I might be useful for
+- 👀 I’m interested in Java, Python Cpp
+- 🌱 I’m currently studying at University of Zagreb.
 - 📫 How to reach me disord Sui#7785
 
 <!---
